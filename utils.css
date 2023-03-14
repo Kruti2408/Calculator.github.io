@@ -1,0 +1,33 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+/* .m-w-20 {
+    max-width: 30vw;
+} */
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.bg-grey {
+    background-color: rgba(79, 79, 79, 0.736);
+    color: white;
+    border: 2px solid black;
+}
